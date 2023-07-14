@@ -6,7 +6,7 @@
   <link href="https://termina.com/atom.xml" rel="self"/>
   
   <link href="https://termina.com/"/>
-  <updated>2023-07-14T05:49:02.524Z</updated>
+  <updated>2023-07-14T07:31:13.943Z</updated>
   <id>https://termina.com/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://termina.com/2023/07/14/hello-world/"/>
-    <id>https://termina.com/2023/07/14/hello-world/</id>
-    <published>2023-07-14T05:49:02.524Z</published>
-    <updated>2023-07-14T05:49:02.524Z</updated>
+    <title>Pytorch Internals: Tensors and Autograd</title>
+    <link href="https://termina.com/2023/07/14/pytorch-internals/"/>
+    <id>https://termina.com/2023/07/14/pytorch-internals/</id>
+    <published>2023-07-14T07:23:21.000Z</published>
+    <updated>2023-07-14T07:31:13.943Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;For all we concern, &lt;strong&gt;Pytorch &amp;#x3D; tensor + autograd&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Wrappers-on-Wrappers-on-Wrappers&quot;&gt;&lt;a</summary>
         
       
     
