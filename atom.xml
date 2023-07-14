@@ -3,11 +3,11 @@
   <title>termina&#39;s Blog</title>
   
   
-  <link href="https://termina.com/atom.xml" rel="self"/>
+  <link href="https://termina.me/atom.xml" rel="self"/>
   
-  <link href="https://termina.com/"/>
-  <updated>2023-07-14T07:42:53.354Z</updated>
-  <id>https://termina.com/</id>
+  <link href="https://termina.me/"/>
+  <updated>2023-07-14T15:52:24.426Z</updated>
+  <id>https://termina.me/</id>
   
   <author>
     <name>termina</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Pytorch Internals: Tensors and Autograd</title>
-    <link href="https://termina.com/pytorch-internals/"/>
-    <id>https://termina.com/pytorch-internals/</id>
+    <link href="https://termina.me/pytorch-internals/"/>
+    <id>https://termina.me/pytorch-internals/</id>
     <published>2023-07-14T07:23:21.000Z</published>
-    <updated>2023-07-14T07:42:53.354Z</updated>
+    <updated>2023-07-14T15:52:24.426Z</updated>
     
     
       
@@ -36,9 +36,9 @@
     
     
     
-    <category term="计算机科学" scheme="https://termina.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    <category term="计算机科学" scheme="https://termina.me/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
     
-    <category term="人工智能" scheme="https://termina.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://termina.me/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
   </entry>
   
