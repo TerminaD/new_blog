@@ -6,7 +6,7 @@
   <link href="https://termina.me/atom.xml" rel="self"/>
   
   <link href="https://termina.me/"/>
-  <updated>2023-07-14T15:52:24.426Z</updated>
+  <updated>2023-07-14T16:12:16.045Z</updated>
   <id>https://termina.me/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://termina.me/about/"/>
+    <id>https://termina.me/about/</id>
+    <published>2023-07-14T16:12:00.180Z</published>
+    <updated>2023-07-14T16:12:16.045Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;hello~&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Pytorch Internals: Tensors and Autograd</title>
