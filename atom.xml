@@ -6,7 +6,7 @@
   <link href="https://termina.me/atom.xml" rel="self"/>
   
   <link href="https://termina.me/"/>
-  <updated>2023-07-14T15:52:24.426Z</updated>
+  <updated>2023-07-17T18:11:22.703Z</updated>
   <id>https://termina.me/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本科两年，得到的与失去的</title>
+    <link href="https://termina.me/second-year/"/>
+    <id>https://termina.me/second-year/</id>
+    <published>2023-07-17T18:10:26.000Z</published>
+    <updated>2023-07-17T18:11:22.703Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一段时间以前看到了某个论坛的一张截图，内容大概是这样的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2010-6-14  A: 我正在学用吉他弹这首歌！&lt;/p&gt;
+&lt;p&gt;2022-03-15  B: 你学会了么&lt;/p&gt;
+&lt;p&gt;2022-03-25  A:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂感" scheme="https://termina.me/tags/%E6%9D%82%E6%84%9F/"/>
+    
+    <category term="Update" scheme="https://termina.me/tags/Update/"/>
+    
+  </entry>
   
   <entry>
     <title>Pytorch Internals: Tensors and Autograd</title>
@@ -43,11 +72,11 @@
   </entry>
   
   <entry>
-    <title>20岁</title>
+    <title>[旧文]20岁</title>
     <link href="https://termina.me/20th-birthday/"/>
     <id>https://termina.me/20th-birthday/</id>
     <published>2022-10-14T17:11:23.000Z</published>
-    <updated>2023-07-17T18:06:18.928Z</updated>
+    <updated>2023-07-17T18:10:18.738Z</updated>
     
     
       
@@ -62,7 +91,7 @@
     
     
     
-    <category term="存货" scheme="https://termina.me/tags/%E5%AD%98%E8%B4%A7/"/>
+    <category term="旧文" scheme="https://termina.me/tags/%E6%97%A7%E6%96%87/"/>
     
     <category term="杂感" scheme="https://termina.me/tags/%E6%9D%82%E6%84%9F/"/>
     
@@ -71,11 +100,11 @@
   </entry>
   
   <entry>
-    <title>请赋予我夏天</title>
+    <title>[旧文]请赋予我夏天</title>
     <link href="https://termina.me/summers-end/"/>
     <id>https://termina.me/summers-end/</id>
     <published>2022-09-12T16:11:17.000Z</published>
-    <updated>2023-07-17T18:06:45.970Z</updated>
+    <updated>2023-07-17T18:10:12.344Z</updated>
     
     
       
@@ -90,7 +119,7 @@
     
     
     
-    <category term="存货" scheme="https://termina.me/tags/%E5%AD%98%E8%B4%A7/"/>
+    <category term="旧文" scheme="https://termina.me/tags/%E6%97%A7%E6%96%87/"/>
     
     <category term="杂感" scheme="https://termina.me/tags/%E6%9D%82%E6%84%9F/"/>
     
