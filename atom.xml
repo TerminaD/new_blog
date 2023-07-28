@@ -6,7 +6,7 @@
   <link href="https://termina.me/atom.xml" rel="self"/>
   
   <link href="https://termina.me/"/>
-  <updated>2023-07-23T06:39:06.421Z</updated>
+  <updated>2023-07-28T15:17:43.856Z</updated>
   <id>https://termina.me/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://termina.me/hdr-test/"/>
     <id>https://termina.me/hdr-test/</id>
     <published>2023-07-23T06:38:09.000Z</published>
-    <updated>2023-07-23T06:39:06.421Z</updated>
+    <updated>2023-07-28T15:17:43.856Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/hdr-test/pic.avif&quot; alt=&quot;avif&quot;&gt;&lt;br&gt;&lt;img src=&quot;/hdr-test/pic.jxl&quot; alt=&quot;jxl&quot;&gt;&lt;br&gt;&lt;img src=&quot;/hdr-test/pic.HEIC&quot; alt=&quot;heic with</summary>
         
       
     
